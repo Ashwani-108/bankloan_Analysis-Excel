@@ -18,9 +18,8 @@ Learnt things from this Project
 
 Some Important insights from the Dashboard
 
-•	Mumbai generates the highest revenue (661 M) followed by Bangalore, Hyderabad and Delhi.
-•	AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
-•	AtliQ Bay has the highest occupancy of 66%.
-•	Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore.
-•	AtliQ lost around 24.84% of revenue in cancellation.
-•	Elite-type rooms has the most booking and as well higher cancellation rate.
+•	Good Loan issued is (88.62%) compared to bad loan which is 13.82%.
+•	Avg interest Rate is 12.05%.
+•	Average Debt to Investement (DTI) ratio is 13.33%.
+•	Total loan application is 8.9k for employee 10+ years.
+•	Total Funded Amount is $435.8M and Total Amount Received is $473.1M.
